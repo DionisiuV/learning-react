@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { unstable_renderSubtreeIntoContainer } from "react-dom";
 import Tweet from "./Tweet";
 
 function App() {
